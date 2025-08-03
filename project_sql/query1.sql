@@ -1,1 +1,0 @@
--- ale kom se pisze
