@@ -8,7 +8,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 * 🔥 In-demand skills
 * 📈 Skills where high demand meets high salary
 
-🔍 **Check out the SQL queries** in the `/project_sql` folder.
+🔍 **Check out the SQL queries** in the [project_sql](/project_sql/) folder.
 
 ---
 
